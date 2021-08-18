@@ -44,4 +44,4 @@ Realice la certificación "Cyber Security Foundation Professional Certificate - 
 
 Fallos de Linux, código y compatibilidad que me resultaban imposibles de resolver, teoría difícil de aprender, se me olvidaba guardar el código, no realizar copias de seguridad de archivos importantes, descargar múltiples herramientas sobrecargando mi sistema Linux y un largo etcétera. Con esta pagina lo que quiero lograr es que tu no comentas esos mismos errores o que estés preparados para ellos
 
-¡Gracias por leer¡
+**¡Gracias por leer¡**
