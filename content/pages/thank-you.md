@@ -4,7 +4,7 @@ img_path: /images/Ciberataque2.jpg
 img_alt: Thank You Led Signage
 layout: page
 ---
+¡Gracias por contactarme! Me pondré en contacto contigo pronto. 
 
-Thank you for contacting me! I will get back in touch with you soon.
+**¡Qué tengas un lindo día!**
 
-**Have a great day!**
