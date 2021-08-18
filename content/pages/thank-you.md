@@ -1,5 +1,5 @@
 ---
-title: Thank You!
+title: ¡Gracias!
 img_path: /images/Ciberataque2.jpg
 img_alt: Thank You Led Signage
 layout: page
