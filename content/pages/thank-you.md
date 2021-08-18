@@ -1,6 +1,6 @@
 ---
 title: Thank You!
-img_path: /images/hacking-etico-31-638.webp
+img_path: /images/Ciberataque2.jpg
 img_alt: Thank You Led Signage
 layout: page
 ---
