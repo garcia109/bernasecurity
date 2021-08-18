@@ -1,59 +1,71 @@
 ---
-title: Contact
+title: Contáctame
 hide_title: false
 sections:
   - section_id: contact-form
     type: section_form
-    content: To get in touch please fill the form below.
+    content: |+
+      Para ponerse en contacto por favor complete el siguiente formulario.
+
     form_id: contactForm
     form_action: /thank-you
     form_fields:
       - input_type: text
-        name: name
-        label: Name
-        default_value: Your name
+        name: Nombre
+        label: Nombre
+        default_value: Tu nombre
         is_required: true
       - input_type: email
-        name: email
-        label: Email
-        default_value: Your email address
+        name: Correo
+        label: Correo
+        default_value: Tu correo electrónico
         is_required: true
       - input_type: select
-        name: subject
-        label: Subject
-        default_value: Please select
+        name: Motivo
+        label: Motivo
+        default_value: Por favor seleccione
         options:
-          - Error on the site
-          - Sponsorship
-          - Other
+          - Error en el sitio
+          - Patrocinio
+          - Otro
       - input_type: textarea
-        name: message
-        label: Message
-        default_value: Your message
+        name: Mensaje
+        label: Mensaje
+        default_value: Tu mensaje
       - input_type: checkbox
-        name: consent
+        name: consentimiento
         label: >-
-          I understand that this form is storing my submitted information so I
-          can be contacted.
-    submit_label: Send Message
+          Entiendo que este formulario está almacenando mi información enviada
+          para que puedan ser contactados.
+    submit_label: Enviar mensaje
 seo:
-  title: Contact
-  description: This is the contact page
+  title: Contáctame
+  description: Para ponerse en contacto por favor complete el siguiente formulario.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Contact
+      value: Contáctame
       keyName: property
     - name: 'og:description'
-      value: This is the contact page
+      value: Para ponerse en contacto por favor complete el siguiente formulario.
       keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Contact
+      value: Contáctame
     - name: 'twitter:description'
-      value: This is the contact page
+      value: Para ponerse en contacto por favor complete el siguiente formulario.
+    - name: 'og:image'
+      value: >-
+        /images/logotipo-del-vector-de-seguridad-cibernética-con-marca-protección-y-verificación-concepto-escudo-internet-ilustración-195108388.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:image'
+      value: >-
+        /images/logotipo-del-vector-de-seguridad-cibernética-con-marca-protección-y-verificación-concepto-escudo-internet-ilustración-195108388.jpg
+      keyName: property
+      relativeUrl: true
 layout: advanced
 ---
