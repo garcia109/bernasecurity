@@ -1,11 +1,11 @@
 {
-    "title": "Stackbit Fresh Theme",
+    "title": "BernaSecurity",
     "path_prefix": "/",
     "layout_style": "overflow",
     "palette": "blue",
     "header": {
-        "title": "Stackbit Fresh",
-        "tagline": "Header Tagline",
+        "title": "BernaSecurity",
+        "tagline": "Ningún sistema es seguro",
         "profile_img": "/images/logotipo-del-vector-de-seguridad-cibernética-con-marca-protección-y-verificación-concepto-escudo-internet-ilustración-195108388.jpg",
         "profile_img_alt": "Author avatar",
         "background": "dark",
@@ -22,12 +22,12 @@
                 "style": "link"
             },
             {
-                "label": "About",
+                "label": "SOBRE MI",
                 "url": "/about/",
                 "style": "link"
             },
             {
-                "label": "Contact",
+                "label": "CONTACTAME",
                 "url": "/contact/",
                 "style": "link"
             }
@@ -36,35 +36,36 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/Bernard39779732",
                 "style": "icon",
                 "icon_class": "twitter",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/bernardo.zapata.3781/",
                 "style": "icon",
                 "icon_class": "instagram",
                 "new_window": true
             },
             {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/Bernardo117TNT",
                 "style": "icon",
                 "icon_class": "github",
-                "new_window": true
+                "new_window": true,
+                "no_follow": false
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/bernardo-zapata-olivares-509b311b9/",
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
             },
             {
                 "label": "DEV",
-                "url": "https://dev.to/",
+                "url": "https://dev.to/bernardo117tnt",
                 "style": "icon",
                 "icon_class": "dev",
                 "new_window": true
@@ -72,7 +73,8 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fresh&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "2021 © BERNASECURITY. TODOS LOS DERECHOS RESERVADOS."
     },
-    "domain": "https://bernasecurity-d0948.netlify.app"
+    "domain": "https://bernasecurity-c8b98.netlify.app",
+    "favicon": "/images/logotipo-del-vector-de-seguridad-cibernética-con-marca-protección-y-verificación-concepto-escudo-internet-ilustración-195108388.jpg"
 }
