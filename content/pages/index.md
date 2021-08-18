@@ -1,68 +1,58 @@
+---
 title: Home
 hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Hola bienvenido a BernaSecurity
-    content: >
-      Entérate de lo mas top de ciberseguridad mientras aprendes para evitar ser
-      victima de un hacker
+    title: "Hi, I'm Stackbit Fresh."
+    content: >-
+      This section can contain a subtitle or tagline. The recommended length is
+      one to three sentences, but can be changed as you prefer.
   - section_id: about
     type: section_content
-    title: ACERCA DE
-    content: >+
-      BernaSecurity es la comunidad para informante sobre todo lo relacionado a
-      la ciberseguridad, desde como son los ataques hasta como defenderte de
-      ellos, y si crees que la tecnología puede solventar tus problemas de
-      seguridad, entonces no entiendes los problemas y no entiendes de
-      tecnología pero para eso estamos aquí para ayudar y que te unas a la
-      comunidad.
-
+    title: About
+    content: >-
+      This is the "about" excerpt. It can be used to provide a paragraph about
+      yourself that people can read on the homepage to get a sense of who you
+      are. There also exists a dedicated about page where you can write more
+      about yourself for those who are interested.
     actions:
-      - label: CONTACTAME
+      - label: Contact Me
         url: /contact
         style: button
   - section_id: recent-posts
     type: section_posts
-    title: "PUBLICACIONES\_RECIENTES"
+    title: Recent Posts
     posts_number: 4
     actions:
-      - label: ver Blog
+      - label: View Blog
         url: blog/index.html
         style: button
 seo:
-  title: BernaSecurity
-  description: >-
-    Entérate de lo mas top de ciberseguridad mientras aprendes para evitar ser
-    victima de un hacker
+  title: Stackbit Fresh Theme
+  description: The preview of the Fresh theme
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: BernaSecurity
+      value: Stackbit Fresh Theme
       keyName: property
     - name: 'og:description'
-      value: >-
-        Entérate de lo mas top de ciberseguridad mientras aprendes para evitar
-        ser victima de un hacker
+      value: The preview of the Fresh theme
       keyName: property
     - name: 'og:image'
-      value: >-
-        /images/logotipo-del-vector-de-seguridad-cibernética-con-marca-protección-y-verificación-concepto-escudo-internet-ilustración-195108388.jpg
+      value: images/4.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: BernaSecurity
+      value: Stackbit Fresh Theme
     - name: 'twitter:description'
-      value: >-
-        Entérate de lo mas top de ciberseguridad mientras aprendes para evitar
-        ser victima de un hacker
+      value: The preview of the Fresh theme
     - name: 'twitter:image'
-      value: >-
-        /images/logotipo-del-vector-de-seguridad-cibernética-con-marca-protección-y-verificación-concepto-escudo-internet-ilustración-195108388.jpg
+      value: images/4.jpg
       relativeUrl: true
 layout: advanced
 ---
